@@ -1,2 +1,6 @@
 # hello-world
 Just another repository
+
+So...
+It`s al about...
+Let`s go!
